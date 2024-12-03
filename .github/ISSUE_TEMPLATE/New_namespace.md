@@ -3,7 +3,7 @@ name: Request a Namespace
 about: Request a new namespace for one of your GitHub Orgs
 title: 'namespace: FIXME'
 labels: area/namespace
-assignees: @ansible/ansible-partner-engineering-1
+assignees: traytorous, epacific1, gundalow, samccann, Andersson007, oraNod, anweshadas
 
 ---
 
